@@ -4,7 +4,7 @@ The ​ **_Preprocessing notebook_** ​ contains code related to data augmentat
 preprocessing of images. It also illustrates visualizations of the data during the process
 (also included in this report).
 
-The ​ **Model notebook** ​ contains the code related to the model used to train, ensemble,
+The ​ **_Model notebook_** ​ contains the code related to the model used to train, ensemble,
 and further predict the labels for test data.
 
 
